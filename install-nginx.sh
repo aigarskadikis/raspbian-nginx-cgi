@@ -4,7 +4,7 @@
 #sudo su
 #apt-get update -y && apt-get upgrade -y && apt-get install git -y
 #git clone https://github.com/catonrug/raspbian-nginx-cgi.git && cd raspbian-nginx-cgi && chmod +x install-nginx.sh
-#./install-nginx.sh
+#time ./install-nginx.sh
 
 #update repositories and upgrade system
 apt-get update -y && apt-get upgrade -y
